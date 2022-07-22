@@ -1,0 +1,17 @@
+-mkdir: create folder
+-touch: create file
+-ls: list files and folders
+-cd: enter dirctory
+-pwd: current path
+-git init : init reprsotory
+-git add: add to rep
+-git add -A: add all to rep
+-git rm --cached : remove from rep
+-git rm -r --cached .: remove all from rep
+-git status
+-git diff: show difference
+-vi {file name} : open to modify
+-git restore {file name}: remove changes
+-git commit -m {log}: to commit to rep
+-git log: show rep's commits
+-git show {id}: show spesified commit
